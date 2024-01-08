@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+button{
+    background-color: black;
+    height: 35px;
+    width: 35px;
+    border-radius: 20%;
+    border: 2px solid white;
+    color: white;
+}
+#result{
+    background-color: beige;
+    border-radius: 10%;
+    height: 20px;
+}
+button:hover{
+    background-color: orange;
+}
+table{
+    border: 2px solid;
+    
+}
